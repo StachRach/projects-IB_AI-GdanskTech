@@ -51,5 +51,5 @@ The goal of this project was to become familiar with the entire process that the
 - Seaborn
 
 ## Contributors
-- [Marta Arendt]()
+- [Marta Arendt](https://github.com/natrendt)
 - [Maciej Mechliński](https://github.com/ciuek)
