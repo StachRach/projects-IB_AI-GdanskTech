@@ -1,7 +1,7 @@
 # Biomedical Engineering Master Studies - projects 
 ## Table of Contents
-- [OPSI](#opsi)
-- [PGiPD](#pgipd)
+- [OPSI](#opsi---computational-foundations-of-artificial-intelligence-obliczeniowe-podstawy-sztucznej-inteligencji)
+- [PGiPD](#pgipd---acquisition-collection-and-processing-of-biomedical-data-pozyskiwanie-gromadzenie-i-przetwarzanie-danych-biomedycznych)
 - [WSI](#wsi---introduction-to-artificial-intelligence-wprowadzenie-do-sztucznej-inteligencji)
 - [Technologies](#technologies)
 - [Contributors](#contributors)
