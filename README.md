@@ -6,6 +6,7 @@
 - [Technologies](#technologies)
 - [Contributors](#contributors)
 
+<a name="#opsi"/>
 ## OPSI - Computational Foundations of Artificial Intelligence (Obliczeniowe Podstawy Sztucznej Inteligencji)
 The goal of the project was to extract the respiratory component from the ECG (electrocardiogram) signal using different distributions. The results obtained had some inaccuracies, but reproduced the model respiratory component.
 
