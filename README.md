@@ -1,4 +1,7 @@
 # Biomedical Engineering Master Studies - projects 
+## Table of Contents
+- [OPSI](#OPSI-Computational-Foundations-of-Artificial-Intelligence-(Obliczeniowe-Podstawy-Sztucznej-Inteligencji))
+
 ## OPSI - Computational Foundations of Artificial Intelligence (Obliczeniowe Podstawy Sztucznej Inteligencji)
 The goal of the project was to extract the respiratory component from the ECG (electrocardiogram) signal using different distributions. The results obtained had some inaccuracies, but reproduced the model respiratory component.
 
@@ -34,6 +37,15 @@ The goal of this project was to become familiar with the entire process that the
 3. Classification with chosen models
 4. Confusion matrix, accuracy and f1-score analysis.
 
-# Contributors
+## Technologies
+- Python
+- Pandas
+- NumPy
+- SciPy
+- Scikit-Learn
+- Matplotlib
+- Seaborn
+
+## Contributors
 - [Marta Arendt]()
 - [Maciej Mechliński](https://github.com/ciuek)
