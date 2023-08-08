@@ -2,11 +2,10 @@
 ## Table of Contents
 - [OPSI](#opsi)
 - [PGiPD](#pgipd)
-- [WSI](#wsi)
+- [WSI](#wsi---introduction-to-artificial-intelligence-wprowadzenie-do-sztucznej-inteligencji)
 - [Technologies](#technologies)
 - [Contributors](#contributors)
 
-<a name="#opsi"/>
 ## OPSI - Computational Foundations of Artificial Intelligence (Obliczeniowe Podstawy Sztucznej Inteligencji)
 The goal of the project was to extract the respiratory component from the ECG (electrocardiogram) signal using different distributions. The results obtained had some inaccuracies, but reproduced the model respiratory component.
 
@@ -22,7 +21,6 @@ The goal of the project was to extract the respiratory component from the ECG (e
 4. EDR visualization
 5. Effects comparison
 
-<a name="#pgipd"/>
 ## PGiPD - Acquisition, Collection and Processing of Biomedical Data (Pozyskiwanie, Gromadzenie i Przetwarzanie Danych Biomedycznych)
 The aim of the project was to repeat the operations carried out on the data in the scientific article, as well as to analyze the results obtained. In the course, however, the wavelet transform was abandoned in favor of fast Fourier transform (FFT). Nonetheless, it was not possible to obtain the same results as in the article.
 
