@@ -1,6 +1,9 @@
 # Biomedical Engineering Master Studies - projects 
 ## Table of Contents
 - [OPSI](#OPSI-Computational-Foundations-of-Artificial-Intelligence-(Obliczeniowe-Podstawy-Sztucznej-Inteligencji))
+- [PGiPD](#PGiPD---Acquisition,-Collection-and-Processing-of-Biomedical-Data-(Pozyskiwanie,-Gromadzenie-i-Przetwarzanie-Danych-Biomedycznych))
+- [Technologies](#Technologies)
+- [Contributors](#Contributors)
 
 ## OPSI - Computational Foundations of Artificial Intelligence (Obliczeniowe Podstawy Sztucznej Inteligencji)
 The goal of the project was to extract the respiratory component from the ECG (electrocardiogram) signal using different distributions. The results obtained had some inaccuracies, but reproduced the model respiratory component.
