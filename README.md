@@ -3,8 +3,8 @@
 - [OPSI](#OPSI-Computational-Foundations-of-Artificial-Intelligence-(Obliczeniowe-Podstawy-Sztucznej-Inteligencji))
 - [PGiPD](#PGiPD-Acquisition,-Collection-and-Processing-of-Biomedical-Data-(Pozyskiwanie,-Gromadzenie-i-Przetwarzanie-Danych-Biomedycznych))
 - [WSI](#WSI-Introduction-to-Artificial-Intelligence-(Wprowadzenie-do-Sztucznej-Inteligencji))
-- [Technologies](#Technologies)
-- [Contributors](#Contributors)
+- [Technologies](#technologies)
+- [Contributors](#contributors)
 
 ## OPSI - Computational Foundations of Artificial Intelligence (Obliczeniowe Podstawy Sztucznej Inteligencji)
 The goal of the project was to extract the respiratory component from the ECG (electrocardiogram) signal using different distributions. The results obtained had some inaccuracies, but reproduced the model respiratory component.
